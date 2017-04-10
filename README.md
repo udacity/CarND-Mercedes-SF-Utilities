@@ -3,7 +3,7 @@ Tools for Sensor Fusion processing.
 
 ---
 
-These tools were created by the team at Mercedes during the develoment of the
+These tools were created by the team at Mercedes during the development of the
 Sensor Fusion module.
 
 We're providing them as-is for the time being, but I'm more than happy to take
