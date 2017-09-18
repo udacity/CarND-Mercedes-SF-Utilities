@@ -21,4 +21,6 @@ could help you get cheap licenses._]
 ### 2. python/
 You'll find a few Jupyter notebooks here that you might find useful for
 visualizing and analyzing your data. Some files are hardcoded so you might need
-to edit them before you get any use out of the notebooks.
+to edit them before you get any use out of the notebooks. You could use nbviewer,
+renders notebooks available on GitHub, to view the result on the notebooks first.
+Here's the [link](https://nbviewer.jupyter.org/github/udacity/CarND-Mercedes-SF-Utilities/tree/master/python/).

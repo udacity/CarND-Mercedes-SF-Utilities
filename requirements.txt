@@ -1,0 +1,4 @@
+# visualization and import data
+plotly
+pandas
+jupyter
